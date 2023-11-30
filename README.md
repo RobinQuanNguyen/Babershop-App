@@ -1,5 +1,7 @@
 # Babershop-App
-This is an app that I completed in the Basics of database systems course.
+This is an app that I completed in the Basics of database systems course using Python and Postgresql.
+
+Users can login into the app with the their username and passwords. Or they can register for new account in the login section, their information will be saved in the database.
 
 The app uses a simple interface, connecting to the database for comparison every time a customer wants to check if that barber is available at that hour.
 
